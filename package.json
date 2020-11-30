@@ -1,0 +1,25 @@
+{
+  "name": "httpstatus",
+  "version": "1.0.0",
+  "description": "HTTP status codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slpv/httpstatus.git"
+  },
+  "keywords": [
+    "http",
+    "code",
+    "status",
+    "response"
+  ],
+  "author": "Alexandr Solopov <alexander.so@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slpv/httpstatus/issues"
+  },
+  "homepage": "https://github.com/slpv/httpstatus#readme"
+}
