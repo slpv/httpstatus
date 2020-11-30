@@ -1,6 +1,6 @@
 {
   "name": "@slpv/httpstatus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lol",
   "main": "index.js",
   "scripts": {
