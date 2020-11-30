@@ -1,0 +1,387 @@
+{
+  "CONTINUE": {
+    "code": 100,
+    "reason": {
+      "en": "Continue",
+      "ru": "Далее"
+    }
+  },
+  "SWITCHING_PROTOCOLS": {
+    "code": 101,
+    "reason": {
+      "en": "Switching Protocols",
+      "ru": "Переключение протоколов"
+    }
+  },
+  "PROCESSING": {
+    "code": 102,
+    "reason": {
+      "en": "PROCESSING",
+      "ru": "Обработка"
+    }
+  },
+  "OK": {
+    "code": 200,
+    "reason": {
+      "en": "OK",
+      "ru": "Успешно"
+    }
+  },
+  "CREATED": {
+    "code": 201,
+    "reason": {
+      "en": "Created",
+      "ru": "Создано"
+    }
+  },
+  "ACCEPTED": {
+    "code": 202,
+    "reason": {
+      "en": "Accepted",
+      "ru": "Принято"
+    }
+  },
+  "NON_AUTHORITATIVE_INFORMATION": {
+    "code": 203,
+    "reason": {
+      "en": "Non Authoritative Information",
+      "ru": "Non Authoritative Information"
+    }
+  },
+  "NO_CONTENT": {
+    "code": 204,
+    "reason": {
+      "en": "No Content",
+      "ru": "Пустой ответ"
+    }
+  },
+  "RESET_CONTENT": {
+    "code": 205,
+    "reason": {
+      "en": "Reset Content",
+      "ru": "Пустой ответ"
+    }
+  },
+  "PARTIAL_CONTENT": {
+    "code": 206,
+    "reason": {
+      "en": "Partial Content",
+      "ru": "Partial Content"
+    }
+  },
+  "MULTI_STATUS": {
+    "code": 207,
+    "reason": {
+      "en": "Multi-Status",
+      "ru": "Multi-Status"
+    }
+  },
+  "MULTIPLE_CHOICES": {
+    "code": 300,
+    "reason": {
+      "en": "Multiple Choices",
+      "ru": "Multiple Choices"
+    }
+  },
+  "MOVED_PERMANENTLY": {
+    "code": 301,
+    "reason": {
+      "en": "Moved Permanently",
+      "ru": "Moved Permanently"
+    }
+  },
+  "MOVED_TEMPORARILY": {
+    "code": 302,
+    "reason": {
+      "en": "Moved Temporarily",
+      "ru": "Moved Temporarily"
+    }
+  },
+  "SEE_OTHER": {
+    "code": 303,
+    "reason": {
+      "en": "See Other",
+      "ru": "See Other"
+    }
+  },
+  "NOT_MODIFIED": {
+    "code": 304,
+    "reason": {
+      "en": "Not Modified",
+      "ru": "Not Modified"
+    }
+  },
+  "USE_PROXY": {
+    "code": 305,
+    "reason": {
+      "en": "Use Proxy",
+      "ru": "Use Proxy"
+    }
+  },
+  "TEMPORARY_REDIRECT": {
+    "code": 307,
+    "reason": {
+      "en": "Temporary Redirect",
+      "ru": "Temporary Redirect"
+    }
+  },
+  "PERMANENT_REDIRECT": {
+    "code": 308,
+    "reason": {
+      "en": "Permanent Redirect",
+      "ru": "Permanent Redirect"
+    }
+  },
+  "BAD_REQUEST": {
+    "code": 400,
+    "reason": {
+      "en": "Bad Request",
+      "ru": "Bad Request"
+    }
+  },
+  "UNAUTHORIZED": {
+    "code": 401,
+    "reason": {
+      "en": "Unauthorized",
+      "ru": "Unauthorized"
+    }
+  },
+  "PAYMENT_REQUIRED": {
+    "code": 402,
+    "reason": {
+      "en": "Payment Required",
+      "ru": "Payment Required"
+    }
+  },
+  "FORBIDDEN": {
+    "code": 403,
+    "reason": {
+      "en": "Forbidden",
+      "ru": "Forbidden"
+    }
+  },
+  "NOT_FOUND": {
+    "code": 404,
+    "reason": {
+      "en": "Not Found",
+      "ru": "Not Found"
+    }
+  },
+  "METHOD_NOT_ALLOWED": {
+    "code": 405,
+    "reason": {
+      "en": "Method Not Allowed",
+      "ru": "Method Not Allowed"
+    }
+  },
+  "NOT_ACCEPTABLE": {
+    "code": 406,
+    "reason": {
+      "en": "Not Acceptable",
+      "ru": "Not Acceptable"
+    }
+  },
+  "PROXY_AUTHENTICATION_REQUIRED": {
+    "code": 407,
+    "reason": {
+      "en": "Proxy Authentication Required",
+      "ru": "Proxy Authentication Required"
+    }
+  },
+  "REQUEST_TIMEOUT": {
+    "code": 408,
+    "reason": {
+      "en": "Request Timeout",
+      "ru": "Request Timeout"
+    }
+  },
+  "CONFLICT": {
+    "code": 409,
+    "reason": {
+      "en": "Conflict",
+      "ru": "Conflict"
+    }
+  },
+  "GONE": {
+    "code": 410,
+    "reason": {
+      "en": "Gone",
+      "ru": "Gone"
+    }
+  },
+  "LENGTH_REQUIRED": {
+    "code": 411,
+    "reason": {
+      "en": "Length Required",
+      "ru": "Length Required"
+    }
+  },
+  "PRECONDITION_FAILED": {
+    "code": 412,
+    "reason": {
+      "en": "Precondition Failed",
+      "ru": "Precondition Failed"
+    }
+  },
+  "REQUEST_TOO_LONG": {
+    "code": 413,
+    "reason": {
+      "en": "Request Entity Too Large",
+      "ru": "Request Entity Too Large"
+    }
+  },
+  "REQUEST_URI_TOO_LONG": {
+    "code": 414,
+    "reason": {
+      "en": "Request-URI Too Long",
+      "ru": "Request-URI Too Long"
+    }
+  },
+  "UNSUPPORTED_MEDIA_TYPE": {
+    "code": 415,
+    "reason": {
+      "en": "Unsupported Media Type",
+      "ru": "Unsupported Media Type"
+    }
+  },
+  "REQUESTED_RANGE_NOT_SATISFIABLE": {
+    "code": 416,
+    "reason": {
+      "en": "Requested Range Not Satisfiable",
+      "ru": "Requested Range Not Satisfiable"
+    }
+  },
+  "EXPECTATION_FAILED": {
+    "code": 417,
+    "reason": {
+      "en": "Expectation Failed",
+      "ru": "Expectation Failed"
+    }
+  },
+  "IM_A_TEAPOT": {
+    "code": 418,
+    "reason": {
+      "en": "I'm a teapot",
+      "ru": "I'm a teapot"
+    }
+  },
+  "INSUFFICIENT_SPACE_ON_RESOURCE": {
+    "code": 419,
+    "reason": {
+      "en": "Insufficient Space on Resource",
+      "ru": "Insufficient Space on Resource"
+    }
+  },
+  "METHOD_FAILURE": {
+    "code": 420,
+    "reason": {
+      "en": "Method Failure",
+      "ru": "Method Failure"
+    }
+  },
+  "UNPROCESSABLE_ENTITY": {
+    "code": 422,
+    "reason": {
+      "en": "Unprocessable Entity",
+      "ru": "Unprocessable Entity"
+    }
+  },
+  "LOCKED": {
+    "code": 423,
+    "reason": {
+      "en": "Locked",
+      "ru": "Locked"
+    }
+  },
+  "FAILED_DEPENDENCY": {
+    "code": 424,
+    "reason": {
+      "en": "Failed Dependency",
+      "ru": "Failed Dependency"
+    }
+  },
+  "PRECONDITION_REQUIRED": {
+    "code": 428,
+    "reason": {
+      "en": "Precondition Required",
+      "ru": "Precondition Required"
+    }
+  },
+  "TOO_MANY_REQUESTS": {
+    "code": 429,
+    "reason": {
+      "en": "Too Many Requests",
+      "ru": "Too Many Requests"
+    }
+  },
+  "REQUEST_HEADER_FIELDS_TOO_LARGE": {
+    "code": 431,
+    "reason": {
+      "en": "Request Header Fields Too Large",
+      "ru": "Request Header Fields Too Large"
+    }
+  },
+  "UNAVAILABLE_FOR_LEGAL_REASONS": {
+    "code": 451,
+    "reason": {
+      "en": "Unavailable For Legal Reasons",
+      "ru": "Unavailable For Legal Reasons"
+    }
+  },
+  "INTERNAL_SERVER_ERROR": {
+    "code": 500,
+    "reason": {
+      "en": "Internal Server Error",
+      "ru": "Internal Server Error"
+    }
+  },
+  "NOT_IMPLEMENTED": {
+    "code": 501,
+    "reason": {
+      "en": "Not Implemented",
+      "ru": "Not Implemented"
+    }
+  },
+  "BAD_GATEWAY": {
+    "code": 502,
+    "reason": {
+      "en": "Bad Gateway",
+      "ru": "Bad Gateway"
+    }
+  },
+  "SERVICE_UNAVAILABLE": {
+    "code": 503,
+    "reason": {
+      "en": "Service Unavailable",
+      "ru": "Service Unavailable"
+    }
+  },
+  "GATEWAY_TIMEOUT": {
+    "code": 504,
+    "reason": {
+      "en": "Gateway Timeout",
+      "ru": "Gateway Timeout"
+    }
+  },
+  "HTTP_VERSION_NOT_SUPPORTED": {
+    "code": 505,
+    "reason": {
+      "en": "HTTP Version Not Supported",
+      "ru": "HTTP Version Not Supported"
+    }
+  },
+  "INSUFFICIENT_STORAGE": {
+    "code": 507,
+    "reason": {
+      "en": "Insufficient Storage",
+      "ru": "Insufficient Storage"
+    }
+  },
+  "NETWORK_AUTHENTICATION_REQUIRED": {
+    "code": 511,
+    "reason": {
+      "en": "Network Authentication Required",
+      "ru": "Network Authentication Required"
+    }
+  }
+}
